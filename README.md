@@ -1,2 +1,1 @@
-# XamarinCrossLogger
-Logger for logging events, info, debug, errors and warnings
+Logger for Xamarin projects
